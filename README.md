@@ -27,14 +27,14 @@ It is highly recommended to run this project in a Python virtual environment.
 
     **`requirements.txt` contents:**
     ```
-    bigframes
-    pandas
-    tqdm
-    scikit-learn
-    numpy
-    matplotlib
-    seaborn
-    google-cloud-bigquery
+    bigframes==1.38.0
+    pandas==2.2.3
+    tqdm==4.67.1
+    scikit-learn==1.6.1
+    numpy==2.2.3
+    matplotlib==3.10.0
+    seaborn==0.13.2
+    google-cloud-bigquery==3.29.0
     ```
 
 ### Google Cloud (GCP) Setup
