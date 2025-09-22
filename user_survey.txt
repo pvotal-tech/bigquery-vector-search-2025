@@ -1,0 +1,19 @@
+1. Please tell us how many months of experience with BigQuery AI each team member has.
+2. Please tell us how many months of experience with Google Cloud each team member has.
+3. We’d love to hear from you and your experience in working with the technology during this hackathon, positive or negative. Please provide any feedback on your experience with BigQuery AI.
+
+Members:
+
+-Ashley Manraj:
+
+    1. Only 2 months experience in GCP Bigquery AI
+    2. 120 months professional experience in GCP
+    3. Fairly good particularly in terms of compute/cost/setup efficiency
+
+- Jeffrey J Sam:
+
+    1. Only 1 month experience in GCP Bigquery AI
+    2. 8 months professional experience, 24 months academic experience
+    3. Very well integrated, particularly the embedding models, vector search with the BigQuery. Only constructive feedback I have is that some of the fuunctionalities provided in the boilerplate API(eg. Vector search, embedding models) do not seem to be available when using through BigQuery.
+
+    
